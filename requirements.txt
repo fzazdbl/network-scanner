@@ -1,0 +1,1 @@
+# Pur stdlib Python 3.8+ — aucune dépendance externe requise
